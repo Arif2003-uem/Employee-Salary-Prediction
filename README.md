@@ -62,11 +62,7 @@ pip install streamlit pandas scikit-learn matplotlib seaborn joblib
 2️⃣ Run the Application
 streamlit run app.py
 
-3️⃣ Open in Browser
 
-The app will open automatically at:
-
-http://localhost:8501
 
 📊 Application Features
 🔹 Individual Prediction
